@@ -1,0 +1,14 @@
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\RemoveTheNumber\bin\Debug\net8.0\RemoveTheNumber.exe
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\RemoveTheNumber\bin\Debug\net8.0\RemoveTheNumber.deps.json
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\RemoveTheNumber\bin\Debug\net8.0\RemoveTheNumber.runtimeconfig.json
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\RemoveTheNumber\bin\Debug\net8.0\RemoveTheNumber.dll
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\RemoveTheNumber\bin\Debug\net8.0\RemoveTheNumber.pdb
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\RemoveTheNumber\obj\Debug\net8.0\RemoveTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\RemoveTheNumber\obj\Debug\net8.0\RemoveTheNumber.AssemblyInfoInputs.cache
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\RemoveTheNumber\obj\Debug\net8.0\RemoveTheNumber.AssemblyInfo.cs
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\RemoveTheNumber\obj\Debug\net8.0\RemoveTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\RemoveTheNumber\obj\Debug\net8.0\RemoveTheNumber.dll
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\RemoveTheNumber\obj\Debug\net8.0\refint\RemoveTheNumber.dll
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\RemoveTheNumber\obj\Debug\net8.0\RemoveTheNumber.pdb
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\RemoveTheNumber\obj\Debug\net8.0\RemoveTheNumber.genruntimeconfig.cache
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\RemoveTheNumber\obj\Debug\net8.0\ref\RemoveTheNumber.dll

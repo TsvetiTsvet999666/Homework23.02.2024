@@ -1,0 +1,14 @@
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\DeleteNegativetems\bin\Debug\net8.0\DeleteNegativetems.exe
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\DeleteNegativetems\bin\Debug\net8.0\DeleteNegativetems.deps.json
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\DeleteNegativetems\bin\Debug\net8.0\DeleteNegativetems.runtimeconfig.json
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\DeleteNegativetems\bin\Debug\net8.0\DeleteNegativetems.dll
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\DeleteNegativetems\bin\Debug\net8.0\DeleteNegativetems.pdb
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\DeleteNegativetems\obj\Debug\net8.0\DeleteNegativetems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\DeleteNegativetems\obj\Debug\net8.0\DeleteNegativetems.AssemblyInfoInputs.cache
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\DeleteNegativetems\obj\Debug\net8.0\DeleteNegativetems.AssemblyInfo.cs
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\DeleteNegativetems\obj\Debug\net8.0\DeleteNegativetems.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\DeleteNegativetems\obj\Debug\net8.0\DeleteNegativetems.dll
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\DeleteNegativetems\obj\Debug\net8.0\refint\DeleteNegativetems.dll
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\DeleteNegativetems\obj\Debug\net8.0\DeleteNegativetems.pdb
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\DeleteNegativetems\obj\Debug\net8.0\DeleteNegativetems.genruntimeconfig.cache
+C:\Users\HOME\Downloads\Visual Studio - Цветенцето\Lists - Crawls\DeleteNegativetems\obj\Debug\net8.0\ref\DeleteNegativetems.dll
